@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @SergeevVasily
-- 👀 I’m interested in ...C, MOBILE Development
-- 🌱 I’m currently learning ...MOBILE Development, C
-- 💞️ I’m looking to collaborate on .. Another developers
-- 📫 How to reach me ...vasikanava@gmail.com
+
